@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804723001204",
+    "project_id": "mobil-vizora",
+    "storage_bucket": "mobil-vizora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804723001204:android:62eadfeb627388d9dc4e21",
+        "android_client_info": {
+          "package_name": "com.example.mobil_vizora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804723001204-s7lnj6gaio7d8q5378r9lt1aosbckd8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTtYE5_-o0IXz-DmtA7WrBLok5cZpT2Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804723001204-s7lnj6gaio7d8q5378r9lt1aosbckd8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
